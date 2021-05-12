@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title_text_style">
+        <item name="fontFamily">@font/kanit_bold</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#FC9E4F</item>
+    </style>
+    <style name="subtitle_text_style">
+        <item name="fontFamily">@font/opensanscondensed_lightitalic</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#17C3B2</item>
+    </style>
+</resources>
